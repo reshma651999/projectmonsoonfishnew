@@ -1,0 +1,29 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  height: 20%;
+  background-color: rgb(177, 226, 62);
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 10px;
+}
+.inputmain {
+  padding: 10px;
+  font-size: 16px;
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+}
+
+.message {
+  background-color: pink;
+}
